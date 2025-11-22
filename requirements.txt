@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+matplotlib
+Pillow
+plotly
+streamlit
+numpy
+pillow
+streamlit
+numpy
+pillow
+opencv-python-headless
